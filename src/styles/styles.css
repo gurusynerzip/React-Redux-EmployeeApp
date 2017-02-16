@@ -1,0 +1,19 @@
+.logo {
+    padding: 10px;
+}
+
+.app-header {
+    background-color: currentColor;
+}
+
+.app-logout {
+    padding: 23px;
+}
+
+.app-emp-count {
+    padding:20px;
+}
+
+.selectedRow {
+    background: rgba(76, 17, 121, 0.16);
+}
